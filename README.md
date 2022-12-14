@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarfaraz Alam</h1>
 <h3 align="center">A passionate frontend developer from Dubai</h3>
+<img align="center" alt="Coding" width="1100" src="https://github.com/sarfarazalam030/sarfarazalam030/blob/main/Sarfaraz%20Alam.gif?raw=true">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfarazalam030&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarazalam030" /> </p>
 
